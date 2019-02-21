@@ -37,6 +37,7 @@ Example use cases:
 
 ### Slash commands
 Type "/shrug" plus another character (like space or enter) to get a fun emoticon.
+
 | Command | Result          |
 |---------|-----------------|
 | /no     | ಠ_ಠ             |
