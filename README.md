@@ -37,11 +37,13 @@ Example use cases:
 
 ### Slash commands
 Type "/shrug" plus another character (like space or enter) to get a fun emoticon.
-* /no - ಠ_ಠ
-* /shrug - ¯\\_(ツ)_/¯
-* /flip - (╯°□°)╯︵ ┻━┻
-* /flip2 - (┛◉Д◉)┛彡┻━┻
-* /flip3 - (ノಠ益ಠ)ノ彡┻━┻
-* /lenny - ( ͡° ͜ʖ ͡°)
-* /why - щ(ﾟДﾟщ)
-* /yay - ヽ(＾∇＾)ﾉ
+| Command | Result          |
+|---------|-----------------|
+| /no     | ಠ_ಠ             |
+| /shrug  | ¯\\_(ツ)_/¯      |
+| /flip   | (╯°□°)╯︵ ┻━┻   |
+| /flip2  | (┛◉Д◉)┛彡┻━┻    |
+| /flip3  | (ノಠ益ಠ)ノ彡┻━┻ |
+| /lenny  | ( ͡° ͜ʖ ͡°)        |
+| /why    | щ(ﾟДﾟщ)         |
+| /yay    | ヽ(＾∇＾)ﾉ      |
