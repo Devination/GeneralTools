@@ -27,12 +27,12 @@ _Ctrl + Shift + V_
 
 If you have a file copied in your clipboard, this will paste the file's path as text.
 
-![TypeClipboard](docs/images/TypeClipboard.gif)
-
 ### Type Out Clipboard
 _Win Key + V_
 
 Pasting is lame, watch the characters be typed out in front of your eyes!
+
+![TypeClipboard](docs/images/TypeClipboard.gif)
 
 Example use cases:
 * Paste without formatting.
