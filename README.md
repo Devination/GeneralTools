@@ -1,5 +1,5 @@
 # GeneralTools
-General tools that I use to make my everyday computing life a little easier.
+General tools that I use to make my everyday computing life a little easier. Windows only, sorry щ(ﾟДﾟщ)
 
 ## Setup
 Either:
@@ -15,15 +15,19 @@ OR
 ## Usage
 Once the script is running in your toolbar, you'll have access to the following hotkeys. They will run in any program. Feel free to download the AHK to change or remove hotkeys you don't want.
 
+### Cycle Slashes Inline
+_Ctrl + Alt + /_
+
+Cycles between \\\\, \\, and / in the current line of text.
+
+![CycleSlashes](docs/images/CycleSlashes.gif)
+
 ### Paste File as Path
 _Ctrl + Shift + V_
 
 If you have a file copied in your clipboard, this will paste the file's path as text.
 
-### Cycle Slashes Inline
-_Ctrl + Alt + /_
-
-Cycles between \\\\, \\, and / in the current line of text.
+![TypeClipboard](docs/images/TypeClipboard.gif)
 
 ### Type Out Clipboard
 _Win Key + V_
@@ -33,10 +37,13 @@ Pasting is lame, watch the characters be typed out in front of your eyes!
 Example use cases:
 * Paste without formatting.
 * Paste passwords when the widget only allows typing.
+* Select pasted file name in a Windows Explorer window.
 * Impress your mom with your fast typing.
 
 ### Slash commands
 Type "/shrug" plus another character (like space or enter) to get a fun emoticon.
+
+![Emoticons](docs/images/Emoticons.gif)
 
 | Command | Result          |
 |---------|-----------------|
@@ -49,5 +56,5 @@ Type "/shrug" plus another character (like space or enter) to get a fun emoticon
 | /why    | щ(ﾟДﾟщ)         |
 | /yay    | ヽ(＾∇＾)ﾉ      |
 
-###TODO
+### TODO
 * Configurable hotkeys via .ini file
