@@ -21,7 +21,7 @@ _Ctrl + Shift + V_
 If you have a file copied in your clipboard, this will paste the file's path as text.
 
 ### Cycle Slashes Inline
-_Win Key + /_
+_Ctrl + Alt + /_
 
 Cycles between \\\\, \\, and / in the current line of text.
 
@@ -48,3 +48,6 @@ Type "/shrug" plus another character (like space or enter) to get a fun emoticon
 | /lenny  | ( ͡° ͜ʖ ͡°)        |
 | /why    | щ(ﾟДﾟщ)         |
 | /yay    | ヽ(＾∇＾)ﾉ      |
+
+###TODO
+* Configurable hotkeys via .ini file

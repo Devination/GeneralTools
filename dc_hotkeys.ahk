@@ -4,7 +4,7 @@
 ;;
 ;; Here is a table of contents:
 ;; * Paste File as Path: Ctrl + Shift + V
-;; * Cycle Slashes Inline: Ctrl + /
+;; * Cycle Slashes Inline: Ctrl + Alt + /
 ;; * Type Out Clipboard: Win Key + V
 ;;
 ;; Then there are a few fun emoticons at the bottom.
@@ -33,7 +33,7 @@
 	return
 
 ; Cycle Slashes Inline
-#/::
+!^/::
 	; Cycles between \\, \, and / in the current line of text.
 	; Keeps old Clipboard but leaves the whole line selected so you can option to copy it.
 	
