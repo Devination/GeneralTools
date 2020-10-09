@@ -1,5 +1,5 @@
 # GeneralTools
-General tools that I use to make my everyday computing life a little easier. Windows only, sorry щ(ﾟДﾟщ)
+Hotkeys that I use to make my everyday computing life a little easier. Windows only, sorry щ(ﾟДﾟщ)
 
 ## Setup
 Either:
